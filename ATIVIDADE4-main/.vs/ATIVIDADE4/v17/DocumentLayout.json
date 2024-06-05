@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\51310947805\\Desktop\\ATIVIDADE4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4FB1D0-C1EB-4801-9217-4F340355B03B}|ATIVIDADE4\\ATIVIDADE4.csproj|c:\\users\\51310947805\\desktop\\atividade4\\atividade4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4FB1D0-C1EB-4801-9217-4F340355B03B}|ATIVIDADE4\\ATIVIDADE4.csproj|solutionrelative:atividade4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\51310947805\\Desktop\\ATIVIDADE4\\ATIVIDADE4\\Program.cs",
+              "RelativeDocumentMoniker": "ATIVIDADE4\\Program.cs",
+              "ToolTip": "C:\\Users\\51310947805\\Desktop\\ATIVIDADE4\\ATIVIDADE4\\Program.cs",
+              "RelativeToolTip": "ATIVIDADE4\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:20:56.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
